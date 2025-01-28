@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my saltydogg.info
 ---
 <h1><H1> Hello 👋, I'm Charles... </h1>
 <p> I usually go by Parad1gmSh1ft in the online tech community. I'm new to coding but I've been making Operating Systems and hardware do my bidding for over 30 years. I worked for many years in electronics manufacturing, learning almost every position from assembly to QA but what I enjoyed the most was SMT, or surface-mount technology. I eventually started working on transferring out of production by spending a few years as an SMT Technician where I learned how to keep the Siemens and Fuji "chip-shooter" component placement machines running in a high-volume production environment. The fun stuff started when I was offered a position in the Engineering department as a Process/Manufacturing Engineer which was my first exposure to the Agile VCS and how inferior it was compared to Git lol. My special talent in that role was programming the AOI machines (Automated Optical Inspection) and finding defects on components so tiny that the naked eye was useless. </p>
